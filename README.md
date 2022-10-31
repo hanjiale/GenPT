@@ -1,5 +1,5 @@
 # GenPT
-[Findings of EMNLP 2022] **Generative Prompt Tuning for Relation Classification**. 
+[Findings of EMNLP 2022] **[Generative Prompt Tuning for Relation Classification](https://arxiv.org/abs/2210.12435)**. 
 
 ### Requirements
 
